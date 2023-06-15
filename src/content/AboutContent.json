@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Technical or Business, We have you covered.",
+  "text": "Hiring should be fair—and backed by science. While hiring AI may be new, the rigor behind it isn’t.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Graduate Hiring",
+      "content": "Our bot allows you to reach more students without traveling to more graduatees. Reach this generation faster through text and video on their phones with solutions that support a full mobile hiring process.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Professional Hiring",
+      "content": "Slow outdated processes will cost you top talent–and lost revenue. Our solution makes recruiting and hiring teams more productive by consolidating steps",
       "icon": "notes.svg"
     }
   ]

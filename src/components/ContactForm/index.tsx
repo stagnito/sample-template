@@ -60,10 +60,11 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                 <ValidationType type="email" />
               </Col>
               <Col span={24}>
-                <TextArea
-                  placeholder="Your Message"
+                <Input
+                  type="text"
+                  name="Role / Job Id"
+                  placeholder="Role / Job Id"
                   value={values.message || ""}
-                  name="message"
                   onChange={handleChange}
                 />
                 <ValidationType type="message" />
@@ -86,7 +87,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                   component="span"
                   onClick={() => window.open("http://www.google.com")}
                 >
-                  {t("Start Interview")}
+                  {t("Submit Resume")}
                 </Button>
               </ButtonContainer>
             </FormGroup>
